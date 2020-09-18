@@ -1,4 +1,4 @@
-# Beginners Tips
+# Beginners Tips 🔰
 
 
 - Which is your interesting bug till now? And tips to find this kind of bug ?
