@@ -45,4 +45,4 @@ Any tips for critical vulns finding?
 
 - Also, one question more, I have been ignoring this question for a while, but now I guess I should ask, what does 0days or something like that mean? What's 0 in that? Sorry, This might be the silliest question, but yeah.
    
-   ***Zero-day is a bug in software, application, hardware or firmware that is unknown to the party or those who are responsible for it which hits all service who are using the vendor application or software.***
+    ***Zero-day is a bug in software, application, hardware or firmware that is unknown to the party or those who are responsible for it which hits all service who are using the vendor application or software.***
