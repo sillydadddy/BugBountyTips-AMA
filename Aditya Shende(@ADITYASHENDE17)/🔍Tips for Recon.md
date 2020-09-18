@@ -21,3 +21,11 @@ Much love
 - I am on my way to build a fully automated scanner for recon. Common things like finding subdomains, extracting JavaScript, searching for secrets, cvescan, directory  bruteforce, etc already done. What else I can add for better results.
  
   ***Add grabbing all possible parameters , screenshots, redirection payloads, sub domain alert, valid sorting of subs***
+
+- What about android bug bounty setup & how you approach . 
+What you think about 
+@mobexler system or you use other type of setup.
+Any word list you use for manually  search ( or tool for automation) in source code for juice stuff.
+  
+   ***I just started android bb so not good into that . For wordlist I will say all.txt of jason and here https://github.com/random-robbie/bruteforce-lists 
+ I am using all open source stuff***
