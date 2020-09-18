@@ -1,4 +1,4 @@
-# Tips For P1 Bugs
+# Tips For P1 Bugs🥇
 
 - How do u consistently pull off so many P1 s ? What kind of bugs are they ? Are they mostly in fresh private programs or in old programs also ?
 
