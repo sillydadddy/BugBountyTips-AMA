@@ -1,4 +1,4 @@
-# Beginner Tips 🔰
+# Tips For Beginners 🔰
 
 - Guideline to hunt XSS on mobile applications
   
