@@ -1,4 +1,4 @@
-# Burnouts🔥
+# Burnouts 🔥
 
 - How you can choose your target!!!And when you feel like lost what are you doing
 
