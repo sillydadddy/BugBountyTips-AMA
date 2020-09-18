@@ -1,4 +1,4 @@
-# Tips For API Hacking
+# Tips For API Hacking 🐱‍💻
 
 - Any tips for API hacking?
  
