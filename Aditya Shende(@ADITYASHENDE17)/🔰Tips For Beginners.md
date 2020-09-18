@@ -29,7 +29,7 @@ Any tips for critical vulns finding?
 
 - When I see a target as "*.site.com " that means that I'm able to hack on that domain and any sub-domain under that domain ? Please help me I'm too confused and also just started my journey.
  
-   ***Yes . You can test all domains + subs. And also check oos domains because some subs are in oos***
+    ***Yes . You can test all domains + subs. And also check oos domains because some subs are in oos***
 
 - We used to follow your achievements steps as easy 1, 2, 3.
   Can you post your recon as that 1, 2, 3?
