@@ -28,7 +28,7 @@
 
 - please write a write-up or blog about what you learnt in this 100 day also include what knowledge you had then and after the challenge what knowledge you have. what things you learn and what challenges you face
  
-   ***Working on writting my first blog, mostly with in days it will be published.Here the blog http://anugrahsr.me/
+   ***Working on writting my first blog, mostly with in days it will be published.Here the blog [AnugrahSR](http://anugrahsr.me/)***
 
 - How you were introduced to bug bounties bro? (Where did u hear about bug bounty at first time) and what was your first thought that came to mind after hearing so..
  
