@@ -1,4 +1,4 @@
-# About  Avinash(@logicbomb_1) 😎 and His Success 💪
+# About  Ozgur Alp(@ozgur_bbh) 😎 and His Success 💪
 
 - what is your story how you entered in bug hunting? 
   
