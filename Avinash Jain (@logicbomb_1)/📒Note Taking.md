@@ -1,4 +1,4 @@
-# Note Keeping 📒
+# Note Taking 📒
 
 - How do you keep your notes and progress when hunting, do you trust online services to keep your private notes?
 For example, do you trust Dropbox when to save sensitive progress when you hack Dropbox?
