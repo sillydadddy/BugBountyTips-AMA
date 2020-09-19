@@ -1,4 +1,4 @@
-# Advice's
+# Advice's 👍
 
 - Do you think #oscp #oswe will help in #bugbounty hunting ? Would you recommend it   for a beginner in bugbounty ?
    
