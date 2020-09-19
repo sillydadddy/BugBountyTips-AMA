@@ -1,4 +1,4 @@
-# About  Ozgur Alp(@ozgur_bbh) 😎 and His Success 💪
+# About  Ozgur Alp 😎 and His Success 💪
 
 - what is your story how you entered in bug hunting? 
   
