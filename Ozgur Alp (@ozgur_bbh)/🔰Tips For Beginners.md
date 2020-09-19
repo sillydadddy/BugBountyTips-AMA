@@ -60,4 +60,4 @@
 
 - what books have you read that make you better at web hacking?
   
-  ***I read "The Web Application Hacker's Handbook" when I first started my career - still one of the best books on the market - and not read any information security related books afterwards.***
+  ***I read "The Web Application Hacker's Handbook" when I first started my career - still one of the best books on the market - and not read any information security related books afterwards.*** 
