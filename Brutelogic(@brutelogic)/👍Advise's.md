@@ -1,4 +1,4 @@
-# Advise's 👍
+# Advice's 👍
 
 - predictions for the long term future? where do you think new vulnerability classes will come from? what do you think web app security will look like in 10 years?
 
