@@ -1,4 +1,4 @@
-# About Aditya Shende 😎
+# About Aditya Shende 😎 and His Success 💪
 
 - Bhai when did you started bug hunting, what were you doing before bug hunting,how did you got started in bug hunting and what was your highest bounty ever.
 Thank You
