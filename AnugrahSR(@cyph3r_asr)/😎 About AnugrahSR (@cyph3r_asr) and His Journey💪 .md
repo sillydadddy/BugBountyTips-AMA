@@ -1,4 +1,4 @@
-# About AnugrahSR (@cyph3r_asr)😎
+# About AnugrahSR 😎  and His Journey💪
 - How hard it had been for you to enter from a diff sector to this bb? what is the reason behind your interest in bb? and tell your story.
  
 
