@@ -7,5 +7,5 @@
 
 - Why hex payloads?
  
-   ***They are URL encoded ASCII characters, nearly similar sending all characters one by one with wordlist. Sometimes also URL decode the payloads for different results, if it is a relevant one.***
+   ***They are URL encoded ASCII characters, nearly similar sending all characters one by one with wordlist. Sometimes also URL decode the payloads for different results, if it is a relevant one.*** 
 
