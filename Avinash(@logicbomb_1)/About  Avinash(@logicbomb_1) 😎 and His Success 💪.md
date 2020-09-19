@@ -31,7 +31,7 @@
     ***1 hour reading twitter/blogs every day after I wake up & before starting working on weekdays. Prefer splitting into all days rather than having "learning days".***
 
 
-- What keeps you Happy everyday or the thing which mitigates the Stress?!  
+- What keeps you  Happy everyday or the thing which mitigates the Stress?!  
   
    ***Which stress? I love the job that I am doing which does not stress me at all. Not-finding bugs sometimes could be a little bit disappointing, however I set my goals for both per months/years and not evaluate my performance day by day, which is really helping.***
 
