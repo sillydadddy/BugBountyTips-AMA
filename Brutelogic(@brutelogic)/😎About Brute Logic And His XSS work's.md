@@ -1,4 +1,4 @@
-# About BruteLogic And His XSS work's 😎
+# About BruteLogic 😎  And His XSS work's 💪
 
 - How do you stay awesome?
 
@@ -22,7 +22,7 @@
 
 - what is your next project?
 
-  ***To hack the planet! Via XSS. Winking face***
+  ***To hack the planet! Via XSS.***
 
 
 - @brutelogic
