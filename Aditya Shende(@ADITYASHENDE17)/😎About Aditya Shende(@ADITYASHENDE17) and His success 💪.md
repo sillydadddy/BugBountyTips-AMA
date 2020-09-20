@@ -3,7 +3,7 @@
 - Bhai when did you started bug hunting, what were you doing before bug hunting,how did you got started in bug hunting and what was your highest bounty ever.
 Thank You
  
-   In middle of 11th I started this stuff with very skid skills. I used participate into boxing , taekwondo and kick boxing. I started bb coz my friend suggestion and I made 10k$ (my highest)
+   ***In middle of 11th I started this stuff with very skid skills. I used participate into boxing , taekwondo and kick boxing. I started bb coz my friend suggestion and I made 10k$ (my highest)***
 
 - Will you do bug bounties for full time after graduating also
 
