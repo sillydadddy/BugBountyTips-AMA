@@ -208,6 +208,6 @@ Any word list you use for manually  search ( or tool for automation) in source c
 
 - What is your favorite note-taking app?
  
-  - ***Pen and paper***
+  - ***Pen and paper*** 
 
 
